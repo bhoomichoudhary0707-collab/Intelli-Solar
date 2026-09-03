@@ -8,6 +8,16 @@ Intelli Solar is designed to track the direction of maximum sunlight using LDR s
 
 A relay and buzzer are used for temperature-based automation and alerts.
 
+## 📸 Project Prototype
+
+### Complete Setup
+
+![Intelli Solar Prototype](intelli-solar-prototype.jpeg)
+
+### Electronics Setup
+
+![Intelli Solar Electronics Setup](intelli-solar-electronics.jpeg)
+
 ## ✨ Features
 
 - Automatic solar tracking using two LDR sensors
